@@ -22,6 +22,11 @@ body {
     flex-direction: row;
 }
 
+.contents {
+    width: 70%;
+    margin: 5px 0 5px 0;
+}
+
 .sidebar {
     width: 20%;
     margin: 10px 0 10px 0;
